@@ -1,5 +1,4 @@
 import './App.css'
-import { Button } from './components/ui/button'
 import Dashboard from './yoga/pages/Dashboard'
 
 function App() {
